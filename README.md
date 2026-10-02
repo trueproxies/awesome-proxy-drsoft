@@ -212,6 +212,12 @@ Privacy-focused overlay networks for anonymous communication.
 
 ---
 
+## Proxy Providers
+
+Commercial proxy services for residential, datacenter, and scraping workloads.
+
+- [TrueProxies](https://trueproxies.com) — Residential and datacenter proxies with 15M+ residential IPs for scraping, SEO, and automation.
+
 ## Related Awesome Lists
 
 - [dariubs/awesome-proxy](https://github.com/dariubs/awesome-proxy) — Collaborative list of proxy servers and resources.
