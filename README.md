@@ -216,7 +216,7 @@ Privacy-focused overlay networks for anonymous communication.
 
 Commercial proxy services for residential, datacenter, and scraping workloads.
 
-- [TrueProxies](https://trueproxies.com) — Residential and datacenter proxies with 15M+ residential IPs for scraping, SEO, and automation.
+- [TrueProxies](https://trueproxies.com) — Residential and datacenter proxies for scraping, data collection and automation, with country targeting, rotating and sticky sessions, and HTTP/SOCKS5 support.
 
 ## Related Awesome Lists
 
